@@ -7,3 +7,5 @@
 3. Copy part of the the text, Cmd+C
 4. Arrow down and paste, Cmd+V
 5. Boom
+
+[Demo Video](./demo.mp4)
