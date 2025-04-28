@@ -9,3 +9,17 @@
 5. Boom
 
 [Demo Video](./demo.mp4)
+
+## The Fix
+
+Addin the following as a pnpm override seems to fix the issue
+
+```
+"pnpm": {
+    "overrides": {
+      "prosemirror-model": "1.25.0"
+    }
+  }
+```
+
+See [package.json](./package.json)
